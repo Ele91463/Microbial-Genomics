@@ -8,4 +8,5 @@ Objective: get the most out of a set of MAGs belonging to a dental plaque SGB
 - Pangenome analysis
 - Phylogenetic analysis 
 - Association with host metadata
+
 MAG: metagenome-assembled genome
